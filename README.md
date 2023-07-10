@@ -9,4 +9,4 @@ that ads will still be present. These ads will not disrupt your experience; they
 for their revenue while you enjoying you reading time. The overall experience will be unique and distinct from the Tachiyomi platform.
 I want it to be very lite wieght and open source platform
 
-P.S. I'm a 17-year-old beginner in Java programming, and I'm eager to gain experience through this project. It's an open-source project, so I can receive help from others. and im not very optimistic for this one"
+P.S. I'm a 17-year-old beginner in Java programming, and I'm eager to gain experience through this project. It's an open-source project, so I can receive help from others.
